@@ -1,0 +1,15 @@
+h1.head {
+  color: red;
+}
+
+p.body {
+  color: purple;
+}
+
+h2.ing {
+  color: orange;
+}
+
+h2.directions {
+  color: blue;
+}
