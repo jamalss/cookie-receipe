@@ -1,14 +1,15 @@
 
 h1 {
-  color: rgb(204, 136, 35);
+  color: rgb(224, 94, 29);
   margin: 4rem;
   font-size: 7rem;
   font-weight: bold;
   font-family: serif;
+  text-decoration: overline;
 }
 
 p.body {
-  color: rgb(237, 222, 158);
+  color: rgb(224, 139, 77);
   font-style: italic;
   font-size: 2rem;
 }
@@ -28,7 +29,7 @@ img {
 
 
 [class*=text-danger] {
-  line-height: 3rem;
+
 }
 
 [class*=block] {
@@ -36,4 +37,10 @@ img {
   margin: 2rem auto;
   font-size: 3rem;
 
+}
+
+span {
+  color: rgb(237, 157, 106);
+  font-family: monospace;
+  line-height: 3rem;
 }
