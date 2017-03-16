@@ -1,0 +1,39 @@
+
+h1 {
+  color: rgb(204, 136, 35);
+  margin: 4rem;
+  font-size: 7rem;
+  font-weight: bold;
+  font-family: serif;
+}
+
+p.body {
+  color: rgb(237, 222, 158);
+  font-style: italic;
+  font-size: 2rem;
+}
+
+h2.ing {
+  color: orange;
+}
+
+h2.directions {
+
+}
+
+img {
+  margin: 0 auto;
+}
+
+
+
+[class*=text-danger] {
+  line-height: 3rem;
+}
+
+[class*=block] {
+  font-weight: bolder;
+  margin: 2rem auto;
+  font-size: 3rem;
+
+}
