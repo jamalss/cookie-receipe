@@ -26,10 +26,20 @@ span {
   line-height: 3rem;
 }
 
-a{
+a {
   color: rgb(75, 52, 12);
 }
 
 [class*=text-danger] {
   line-height: 3rem;
+}
+
+[type*=button] {
+  color: rgb(237, 157, 106);
+  font-family: monospace;
+  font-weight: light;
+  margin: 2rem auto;
+  font-size: 1.5rem;
+  word-spacing: 1.5rem;
+  letter-spacing: 0.4rem;
 }

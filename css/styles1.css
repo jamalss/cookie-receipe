@@ -1,4 +1,3 @@
-
 h1 {
   color: rgb(224, 94, 29);
   margin: 4rem;
@@ -12,6 +11,16 @@ img {
   margin: 0 auto;
 }
 
+span {
+  color: rgb(237, 157, 106);
+  font-family: monospace;
+  line-height: 3rem;
+}
+
+a {
+  color: rgb(75, 52, 12);
+}
+
 [class*=block] {
   font-weight: bolder;
   margin: 2rem auto;
@@ -20,16 +29,6 @@ img {
 
 [class*=text-danger] {
   line-height: 3rem;
-}
-
-span {
-  color: rgb(237, 157, 106);
-  font-family: monospace;
-  line-height: 3rem;
-}
-
-a{
-  color: rgb(75, 52, 12);
 }
 
 [type*=button] {
