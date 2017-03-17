@@ -7,36 +7,29 @@ h1.head {
 }
 
 p.body {
-  color: rgb(237, 222, 158);
+  color: rgb(232, 213, 130);
   font-style: italic;
-  font-size: 2rem;
+  font-size: 1.9rem;
 }
 
 h2.ing {
   color: orange;
 }
 
-h2.directions {
-
-}
-
 img {
   margin: 0 auto;
 }
 
-
-
-[class*=text-danger] {
+span {
+  color: rgb(237, 157, 106);
+  font-family: monospace;
   line-height: 3rem;
 }
 
-[type*=button] {
-  font-weight: bolder;
-  margin: 2rem auto;
-  font-size: 3rem;
-
+a{
+  color: rgb(75, 52, 12);
 }
 
-a{
-  color: red;
+[class*=text-danger] {
+  line-height: 3rem;
 }

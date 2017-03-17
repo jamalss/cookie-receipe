@@ -8,39 +8,36 @@ h1 {
   text-decoration: overline;
 }
 
-p.body {
-  color: rgb(224, 139, 77);
-  font-style: italic;
-  font-size: 2rem;
-}
-
-h2.ing {
-  color: orange;
-}
-
-h2.directions {
-
-}
-
 img {
   margin: 0 auto;
-}
-
-
-
-[class*=text-danger] {
-
 }
 
 [class*=block] {
   font-weight: bolder;
   margin: 2rem auto;
   font-size: 3rem;
+}
 
+[class*=text-danger] {
+  line-height: 3rem;
+}
+
+[type*=button] {
+  font-weight: bolder;
+  margin: 2rem auto;
+  font-size: 3rem;
 }
 
 span {
   color: rgb(237, 157, 106);
   font-family: monospace;
   line-height: 3rem;
+}
+
+a{
+  color: rgb(75, 52, 12);
+}
+
+p3 {
+
 }
